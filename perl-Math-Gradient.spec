@@ -11,7 +11,7 @@ Name:		perl-Math-Gradient
 Version:	0.04
 Release:	1
 # same as perl
-License:	GPL or Artistic
+License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tgz
 # Source0-md5:	4324edf09a8f684153ac0079f8507a0b
