@@ -3,8 +3,8 @@
 %bcond_without	tests	# do not perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define	pdir	Math
-%define	pnam	Gradient
+%define		pdir	Math
+%define		pnam	Gradient
 Summary:	Math::Gradient - calculating gradients for colour transitions etc.
 Summary(pl):	Math::Gradient - obliczanie gradientów do przej¶æ kolorów itp.
 Name:		perl-Math-Gradient
