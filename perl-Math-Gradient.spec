@@ -8,13 +8,13 @@
 Summary:	Math::Gradient - calculating gradients for colour transitions etc.
 Summary(pl):	Math::Gradient - obliczanie gradientów do przej¶æ kolorów itp.
 Name:		perl-Math-Gradient
-Version:	0.02
+Version:	0.04
 Release:	1
 # same as perl
 License:	GPL or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tgz
-# Source0-md5:	a93701f52086bab0ebdbb7f2d23a0eaf
+# Source0-md5:	4324edf09a8f684153ac0079f8507a0b
 BuildRequires:	perl-devel >= 5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
 BuildArch:	noarch
