@@ -6,7 +6,7 @@
 %define		pdir	Math
 %define		pnam	Gradient
 Summary:	Math::Gradient - calculating gradients for colour transitions etc.
-Summary(pl):	Math::Gradient - obliczanie gradientÛw do przej∂Ê kolorÛw itp.
+Summary(pl.UTF-8):   Math::Gradient - obliczanie gradient√≥w do przej≈õƒá kolor√≥w itp.
 Name:		perl-Math-Gradient
 Version:	0.04
 Release:	1
@@ -27,12 +27,12 @@ mainly to mix colours, but it probably has several other applications.
 Methods are supported to handle both basic and multiple-point
 gradients, both with scalars and arrays.
 
-%description -l pl
-Math::Gradient s≥uøy do obliczania p≥ynnych przej∂Ê miÍdzy warto∂ciami
-liczbowymi (znanych teø jako "gradienty"). Modu≥ zosta≥ napisany
-g≥Ûwnie do mieszania kolorÛw, ale prawdopodobnie ma parÍ innych
-zastosowaÒ. Zawiera metody do obs≥ugi prostych i wielopunktowych
-gradientÛw, zarÛwno na skalarach, jak i tablicach.
+%description -l pl.UTF-8
+Math::Gradient s≈Çu≈ºy do obliczania p≈Çynnych przej≈õƒá miƒôdzy warto≈õciami
+liczbowymi (znanych te≈º jako "gradienty"). Modu≈Ç zosta≈Ç napisany
+g≈Ç√≥wnie do mieszania kolor√≥w, ale prawdopodobnie ma parƒô innych
+zastosowa≈Ñ. Zawiera metody do obs≈Çugi prostych i wielopunktowych
+gradient√≥w, zar√≥wno na skalarach, jak i tablicach.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}
