@@ -9,7 +9,7 @@ Summary:	Math::Gradient - calculating gradients for colour transitions etc.
 Summary(pl.UTF-8):	Math::Gradient - obliczanie gradientów do przejść kolorów itp.
 Name:		perl-Math-Gradient
 Version:	0.04
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
