@@ -1,10 +1,10 @@
 #
 # Conditional build:
 %bcond_without	tests	# do not perform "make test"
-#
-%include	/usr/lib/rpm/macros.perl
+
 %define		pdir	Math
 %define		pnam	Gradient
+%include	/usr/lib/rpm/macros.perl
 Summary:	Math::Gradient - calculating gradients for colour transitions etc.
 Summary(pl.UTF-8):	Math::Gradient - obliczanie gradientów do przejść kolorów itp.
 Name:		perl-Math-Gradient
@@ -15,6 +15,7 @@ License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tgz
 # Source0-md5:	4324edf09a8f684153ac0079f8507a0b
+URL:		http://search.cpan.org/dist/Math-Gradient/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
 BuildArch:	noarch
