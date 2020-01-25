@@ -4,7 +4,6 @@
 
 %define		pdir	Math
 %define		pnam	Gradient
-%include	/usr/lib/rpm/macros.perl
 Summary:	Math::Gradient - calculating gradients for colour transitions etc.
 Summary(pl.UTF-8):	Math::Gradient - obliczanie gradientów do przejść kolorów itp.
 Name:		perl-Math-Gradient
